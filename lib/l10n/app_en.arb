@@ -1,0 +1,19 @@
+{
+  "login": "Login",
+  "login_title": "Welcome back...",
+  "login_subtitle": "Enter email & password",
+  "email": "Email",
+  "password": "Password",
+
+  "register": "Register",
+  "register_title": "Create new account...",
+  "register_subtitle": "Enter details below",
+  "name": "Name",
+
+  "new_note": "New Note",
+  "note_hint": "Enter title & info",
+  "title": "Title",
+  "info": "Info",
+  "update_note": "Update Note",
+  "save": "Save"
+}
